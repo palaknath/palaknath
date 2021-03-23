@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Palak Nath
+- 👀 I’m interested in Artifitial Intelligence
