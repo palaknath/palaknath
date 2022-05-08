@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Palak Nath
-- 👀 I’m interested in Artifitial Intelligence
+- I am doing masters in Business Analytics from UIUC
+- 👀 I’m interested in Data Visualisation, Artifitial Intelligence, Predictive Analytics and Consumer analytics
