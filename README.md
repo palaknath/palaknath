@@ -7,3 +7,4 @@ I am an IT engineer who fell in love with Analytics in my final year of Engineer
 - 👀 I’m interested in Data Visualisation, Artifitial Intelligence, Business, Predictive and Consumer analytics
 - 👩🏻‍💻 R Programming, Python, Excel, SQL and Tableau
 - 📩 Contact me via LinkedIn: https://www.linkedin.com/in/palak-nath/
+- 🎖️ Student Leader for MS in Business Analytics Cohort and Graduate Ambassador for the Gies College of Business.
