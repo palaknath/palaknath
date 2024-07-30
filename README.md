@@ -12,6 +12,11 @@ Before my masters, I was working with ZS Associates as a Software Performance En
 - 🎖️ Student Leader for MS in Business Analytics Cohort and Graduate Ambassador for the Gies College of Business.
 - Apart from work, I am an ambassador for IDP Education where I make informative videos for studying and working abroad! 
 
+📫 How to reach me?
+Connect with me on LinkedIn: https://www.linkedin.com/in/palak-nath/👨🏻‍💻
+Follow me on Instagram: https://www.instagram.com/palak_nath/ ✨
+Shoot Me an Email: palaknath@gmail.com 💌
+
 ### Languages & Tools 👩🏻‍💻
 ![image](https://user-images.githubusercontent.com/57233628/200934054-98c17917-6a50-4beb-9fbd-4b4efd48473d.png)
 ![image](https://user-images.githubusercontent.com/57233628/200934295-e6a7f866-4943-4017-af31-b354b9ff6739.png)
