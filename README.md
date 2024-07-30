@@ -10,12 +10,13 @@ Before my masters, I was working with ZS Associates as a Software Performance En
 - 👀 I’m interested in Data Visualisation, Artifitial Intelligence, Business Analyics, Predictive Models, Market and Consumer analytics
 - 📩 Contact me via LinkedIn: https://www.linkedin.com/in/palak-nath/
 - 🎖️ Student Leader for MS in Business Analytics Cohort and Graduate Ambassador for the Gies College of Business.
-- Apart from work, I am an ambassador for IDP Education where I make informative videos for studying and working abroad! 
+- 🎥 Apart from work, I am an ambassador for IDP Education where I make informative videos for studying and working abroad! 
 
-📫 How to reach me?
+#### 📫 How to reach me?
+
 Connect with me on LinkedIn: https://www.linkedin.com/in/palak-nath/👨🏻‍💻
 Follow me on Instagram: https://www.instagram.com/palak_nath/ ✨
-Shoot Me an Email: palaknath@gmail.com 💌
+Shoot Me an Email: palaknath@gmail.com 📧
 
 ### Languages & Tools 👩🏻‍💻
 ![image](https://user-images.githubusercontent.com/57233628/200934054-98c17917-6a50-4beb-9fbd-4b4efd48473d.png)
