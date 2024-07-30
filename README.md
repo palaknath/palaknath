@@ -1,12 +1,16 @@
 ### 👋 Hi Everyone, I am Palak Nath
 
-I have a masters degree in Business Analytics at the University of Illinois Urbana Champaign.
+Currently working as a Data Scientist at Comscore, I am an IT engineer who fell in love with Analytics in my final year of Engineering, and ever since there has been no looking back.
+Thriving at the intersection of data and digital media, my role at Comscore harnesses SQL, Python/R, and ETL tools to transform complex datasets into actionable insights. Our team's collaborative efforts in data quality and automation streamline processes for our clients, reflecting a commitment to excellence and innovation.
 
-I am an IT engineer who fell in love with Analytics in my final year of Engineering, and ever since there has been no looking back. Before my masters, I was working with ZS Associates as a Software Performance Engineer. I have had the experience to work on a lot of Big Data and Predictive Analytics projects throughout my bachelor's and otherwise. In the future, I wish to advance into roles that combine both technical as well as managerial skills like business analyst, data analyst, or pricing analyst.
+I have a master's degree in Business Analytics from the University of Illinois Urbana Champaign. My analytical prowess is complemented by a perfect GPA and multiple leadership accolades. 
+
+Before my masters, I was working with ZS Associates as a Software Performance Engineer. I have had the experience to work on a lot of Big Data and Predictive Analytics projects throughout my bachelor's and otherwise. In the future, I wish to advance into roles that combine both technical as well as managerial skills like business analyst, data analyst, or pricing analyst.
 
 - 👀 I’m interested in Data Visualisation, Artifitial Intelligence, Business Analyics, Predictive Models, Market and Consumer analytics
 - 📩 Contact me via LinkedIn: https://www.linkedin.com/in/palak-nath/
 - 🎖️ Student Leader for MS in Business Analytics Cohort and Graduate Ambassador for the Gies College of Business.
+- Apart from work, I am an ambassador for IDP Education where I make informative videos for studying and working abroad! 
 
 ### Languages & Tools 👩🏻‍💻
 ![image](https://user-images.githubusercontent.com/57233628/200934054-98c17917-6a50-4beb-9fbd-4b4efd48473d.png)
