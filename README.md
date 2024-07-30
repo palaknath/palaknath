@@ -15,7 +15,9 @@ Before my masters, I was working with ZS Associates as a Software Performance En
 #### 📫 How to reach me?
 
 Connect with me on LinkedIn: https://www.linkedin.com/in/palak-nath/👨🏻‍💻
+
 Follow me on Instagram: https://www.instagram.com/palak_nath/ ✨
+
 Shoot Me an Email: palaknath@gmail.com 📧
 
 ### Languages & Tools 👩🏻‍💻
